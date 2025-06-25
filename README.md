@@ -52,7 +52,7 @@ I am a passionate **MERN Stack Developer** , building clean and responsive full-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="170" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="170" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="left">
