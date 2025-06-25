@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-link.com/banner.png" alt="banner" style="width:100%; border-radius:10px;" />
+<img src="[https://your-banner-image-link.com/banner.png](https://i.ibb.co/Rkz75sDP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)" alt="banner" style="width:100%; border-radius:10px;" />
 
 <h1 align="center">Hi, I'm Fahim Hasan 👋</h1>
 <h3 align="center">MERN Stack Developer | Full-Stack Web Enthusiast</h3>
