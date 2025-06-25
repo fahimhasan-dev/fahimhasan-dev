@@ -34,6 +34,23 @@ I am a passionate **MERN Stack Developer** , building clean and responsive full-
 
 ---
 
+### 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS"/>
+</p>
+
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -54,7 +71,11 @@ I am a passionate **MERN Stack Developer** , building clean and responsive full-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimhasan-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=fahimhasan-dev&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhasan-dev&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
 ---
 
 
