@@ -71,11 +71,7 @@ I am a passionate **MERN Stack Developer** , building clean and responsive full-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimhasan-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=fahimhasan-dev&theme=radical" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhasan-dev&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
+
 ---
 
 
