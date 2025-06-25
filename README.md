@@ -8,8 +8,8 @@
 
 ### 📫 Contact Me
 
-- 📍 Location: [Your City, Country]
-- 📧 Email: [your-email@example.com]
+- 📍 Location:Dhaka, Bangladesh
+- 📧 Email:fahimhasan.merndev@gmail.com
 - 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
