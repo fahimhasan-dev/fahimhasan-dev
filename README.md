@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **MERN Stack Developer** based in [Your City], building clean and responsive full-stack web applications. I enjoy solving real-world problems and learning modern technologies.
+I am a passionate **MERN Stack Developer** , building clean and responsive full-stack web applications. I enjoy solving real-world problems and learning modern technologies.
 
 #### 🌱 Currently:
 - 🌐 Exploring **Next.js**
