@@ -57,32 +57,6 @@ I am a passionate **MERN Stack Developer** , building clean and responsive full-
 
 ---
 
-### 📌 Pinned Repositories
-
-Make sure you pin at least 3 repositories on your profile with:
-
-- 📝 **Clear Description**: Include overview, live link, and tech stack  
-- 📸 **Screenshot** (in README)  
-- 🔧 **Main Features**  
-- 📦 **Dependencies**  
-- 🛠️ **How to Run**  
-- 🔗 **Live Demo Link**
-
----
-
-> ⚠️ Don't forget to:
-> - Keep your **profile picture** semi-formal  
-> - Add **at least 3 pinned repos** (like portfolio, blog app, or e-commerce site)  
-> - Avoid adding social links like Instagram, Snapchat, etc.
-
----
-
-### 🧠 Extra Tips
-- Use GitHub Actions to auto-update stats if needed  
-- Add GitHub activity graph (like [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy))  
-- Maintain consistency between your **portfolio** and **GitHub**
-
----
 
 ⭐️ _Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or connect!_
 
