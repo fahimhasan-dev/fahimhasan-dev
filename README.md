@@ -20,7 +20,7 @@ I am a passionate **MERN Stack Developer** , building clean and responsive full-
 
 #### 🌱 Currently:
 - 🌐 Exploring **Next.js**
-- 🏗️ Working on a **Tourism Booking Website**
+- 🏗️ Working on a **Delivery Service Website**
 - 📚 Practicing **DSA and System Design**
 - 🧪 Building REST APIs with Express & MongoDB
 
@@ -38,8 +38,8 @@ I am a passionate **MERN Stack Developer** , building clean and responsive full-
 
 <p align="left">
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/fahim.hasan.904844" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="fahimhasan.merndev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
