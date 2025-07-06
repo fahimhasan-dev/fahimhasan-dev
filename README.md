@@ -10,7 +10,7 @@
 
 - 📍 Location:Dhaka, Bangladesh
 - 📧 Email:fahimhasan.merndev@gmail.com
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐 Portfolio: https://fahimhasan.netlify.app/
 
 ---
 
