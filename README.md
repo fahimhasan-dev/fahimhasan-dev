@@ -41,7 +41,7 @@ I am a passionate **MERN Stack Developer** , building clean and responsive full-
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mern-dev-fahim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/fahim.hasan.904844" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/></a>
   <a href="fahimhasan.merndev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
