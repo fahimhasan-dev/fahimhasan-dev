@@ -60,12 +60,12 @@ I am a passionate **MERN Stack Developer**, building clean and responsive full-s
 
 <!-- 🔥 GitHub Contribution Graph -->
 <p align="left">
-  <img src="https://github-contribution-graph.ez4o.com/?username=your-github-username&bg=0D1117&color=58a6ff&line=2c974b&point=ffffff&area=true&hide_border=true" height="170" />
+  <img src="https://github-contribution-graph.ez4o.com/?username=fahimhasan-dev&bg=0D1117&color=58a6ff&line=2c974b&point=ffffff&area=true&hide_border=true" height="170" />
 </p>
 
 <!-- 🧠 GitHub Profile Trophy -->
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahimhasan-dev&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
