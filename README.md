@@ -50,22 +50,22 @@ I am a passionate **MERN Stack Developer**, building clean and responsive full-s
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?fahimhasan-dev&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?fahimhasan-dev&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?fahimhasan-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" />
 </p>
 
 <!-- 🔥 GitHub Contribution Graph -->
 <p align="left">
-  <img src="https://github-contribution-graph.ez4o.com/?https://github.com/fahimhasan-dev&bg=0D1117&color=58a6ff&line=2c974b&point=ffffff&area=true&hide_border=true" height="170" />
+  <img src="https://github-contribution-graph.ez4o.com/?username=your-github-username&bg=0D1117&color=58a6ff&line=2c974b&point=ffffff&area=true&hide_border=true" height="170" />
 </p>
 
 <!-- 🧠 GitHub Profile Trophy -->
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/https://github.com/fahimhasan-dev&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
