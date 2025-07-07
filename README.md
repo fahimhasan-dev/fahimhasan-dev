@@ -50,12 +50,12 @@ I am a passionate **MERN Stack Developer**, building clean and responsive full-s
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?https://github.com/fahimhasan-dev&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/fahimhasan-dev&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?fahimhasan-dev&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?fahimhasan-dev&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?https://github.com/fahimhasan-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?fahimhasan-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" />
 </p>
 
 <!-- 🔥 GitHub Contribution Graph -->
